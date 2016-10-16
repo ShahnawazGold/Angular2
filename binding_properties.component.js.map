@@ -1,0 +1,1 @@
+{"version":3,"file":"binding_properties.component.js","sourceRoot":"","sources":["binding_properties.component.ts"],"names":[],"mappings":";;;;;;;;;;AAEA,qBAA0B,eAAe,CAAC,CAAA;AAM1C;IAII;QACG,IAAI,CAAC,IAAI,GAAG,MAAM,CAAC;IACtB,CAAC;IAVL;QAAC,gBAAS,CAAC;YACP,QAAQ,EAAE,QAAQ;YAClB,QAAQ,EAAE,iCAA+B;SAC5C,CAAC;;oBAAA;IASF,mBAAC;AAAD,CAAC,AARD,IAQC;AARY,oBAAY,eAQxB,CAAA"}

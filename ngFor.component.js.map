@@ -1,0 +1,1 @@
+{"version":3,"file":"ngFor.component.js","sourceRoot":"","sources":["ngFor.component.ts"],"names":[],"mappings":";;;;;;;;;;AAEA,qBAAwB,eAAe,CAAC,CAAA;AAUxC;IAII;QACI,IAAI,CAAC,MAAM,GAAG,CAAC,SAAS,EAAE,QAAQ,EAAE,OAAO,CAAC,CAAC;IACjD,CAAC;IAdL;QAAC,gBAAS,CAAC;YACP,QAAQ,EAAE,QAAQ;YAClB,QAAQ,EAAE,2GAIT;SACJ,CAAC;;oBAAA;IASF,mBAAC;AAAD,CAAC,AARD,IAQC;AARY,oBAAY,eAQxB,CAAA"}
